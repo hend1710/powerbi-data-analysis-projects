@@ -1,0 +1,73 @@
+# Freelancer Feedback & Market Insights Dashboard
+
+## Project Overview
+
+The **Freelancer Feedback & Market Insights Dashboard** is an interactive data analytics project developed using Power BI to explore global trends in the freelance and data-related job market. The dashboard analyzes survey responses from freelancers across different countries to understand salary distribution, demographic characteristics, and the most commonly used technical skills such as Python, SQL, and other data tools.
+
+This project transforms raw survey data into meaningful insights that help highlight patterns in freelancer compensation, education background, and geographic distribution. Through interactive visualizations and dynamic filters, users can explore how different factors influence freelancer salaries and roles within the data industry.
+
+## Project Objective
+
+The primary goal of this project is to demonstrate how business intelligence tools can be used to analyze workforce trends in the global freelance market. By leveraging data cleaning, modeling, and analytical calculations, the dashboard provides insights into salary benchmarks, age distribution, education levels, and the popularity of technical roles within the data ecosystem.
+
+## Tools & Technologies Used
+
+* Power BI for interactive dashboard development and data visualization
+* Power Query for data cleaning, transformation, and preprocessing
+* DAX (Data Analysis Expressions) for building analytical measures and calculated metrics
+* Data Modeling to structure relationships between data fields and optimize analytical performance
+
+## Data Preparation
+
+Power Query was used to clean and transform the dataset before analysis. The preparation process included handling missing values, removing inconsistencies, transforming categorical data, and preparing columns for analytical calculations.
+
+## Data Modeling
+
+A structured data model was created to support efficient analysis across multiple variables including country, job title, education level, salary range, and demographic attributes. Proper modeling allows the dashboard to generate accurate insights when users interact with filters and visuals.
+
+## Key Performance Indicators (KPIs)
+
+The dashboard includes several high-level KPIs that provide a quick overview of the dataset:
+
+* **Total Number of Respondents:** 629 survey participants
+* **Average Salary:** 53K
+* **Minimum Salary:** 20K
+* **Maximum Salary:** 188K
+* **Average Age:** 30 years
+* **Minimum Age:** 18 years
+* **Maximum Age:** 66 years
+
+These KPIs help summarize the overall characteristics of freelancers participating in the survey and provide quick insights into salary ranges and demographic distribution.
+
+## Interactive Slicers (Filters)
+
+To enhance user exploration and interactivity, the dashboard includes several slicers that allow dynamic filtering of the data:
+
+* **Country:** Analyze freelancer trends by geographic location
+* **Job Title:** Explore insights by roles such as Data Analyst, Data Engineer, Data Scientist, and Database Developer
+* **Ethnicity:** Understand demographic distribution across survey participants
+* **Education Level:** Compare insights based on educational background (Bachelors, Masters, PhD, High School, etc.)
+
+These slicers enable users to dynamically explore how different attributes impact salary levels, workforce distribution, and job roles within the data industry.
+
+## Key Insights Provided by the Dashboard
+
+The dashboard highlights several important analytical insights including:
+
+* Distribution of freelancers across different countries
+* Comparison of salary levels among different job roles
+* Demographic patterns such as age and education level
+* Identification of the most common roles in the data industry
+* Overview of the global freelance data workforce
+
+## Skills Demonstrated
+
+* Data Cleaning and Transformation
+* Data Modeling in Power BI
+* DAX Calculations and KPI Development
+* Interactive Dashboard Design
+* Data Visualization and Business Intelligence
+
+## SEO Keywords
+
+Power BI dashboard project, freelancer data analysis, freelance market insights, Power BI portfolio project, data analytics dashboard, Power Query data cleaning, DAX calculations, freelancer salary analysis, data analyst portfolio project, Python and SQL demand analysis.
